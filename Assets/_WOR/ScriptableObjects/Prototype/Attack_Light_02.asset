@@ -18,7 +18,7 @@ MonoBehaviour:
   backAttackMultiplier: 1.25
   causesStun: 1
   stunDuration: 0.2
-  knockback: 2
+  knockback: 4
   launch: 0
   causesKnockdown: 0
   knockdownDuration: 0.7

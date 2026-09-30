@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b338c88ca35d4ab4c89ccc05d5380d2b, type: 3}
+  m_Name: Combo_Light
+  m_EditorClassIdentifier: Assembly-CSharp::Ramirestech.Combat.ComboDefinition
+  attacks:
+  - {fileID: 11400000, guid: 2b46eed026e84df4ba67fbccade2c8f4, type: 2}
+  - {fileID: 11400000, guid: 829e095f71174cd4b90af50ffaed0e34, type: 2}
+  - {fileID: 11400000, guid: 65a81e4f00a09554ab53385b5ad67217, type: 2}
+  resetDelay: 0.8
